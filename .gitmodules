@@ -1,0 +1,3 @@
+[submodule "MasteringPyTorch/MasteringPyTorchV2"]
+	path = MasteringPyTorch/MasteringPyTorchV2
+	url = git@github.com:czhurdlespeed/MasteringPyTorchV2.git

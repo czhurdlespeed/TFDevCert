@@ -1,1 +1,4 @@
 .python-version
+MasteringPyTorch/Ch2DeepCNNArch/data/*
+MasteringPyTorch/Ch2DeepCNNArch/cifar_model.pth  
+
