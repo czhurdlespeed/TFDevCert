@@ -2,3 +2,5 @@
 MasteringPyTorch/Ch2DeepCNNArch/data/*
 MasteringPyTorch/Ch2DeepCNNArch/cifar_model.pth  
 MasteringPyTorch/Ch4DeepRNNs/aclImdb/*
+MasteringPyTorch/Ch4HybridModels/dataset/cifar-10-batches-py/*
+MasteringPyTorch/Ch4HybridModels/dataset/cifar-10-python.tar.gz

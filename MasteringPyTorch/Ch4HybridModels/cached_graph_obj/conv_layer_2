@@ -1,0 +1,109 @@
+&id033 !!python/object:networkx.classes.graph.Graph
+__networkx_cache__: {}
+_adj: &id034
+  0:
+    1: &id001 {}
+    3: &id003 {}
+    5: &id004 {}
+    13: &id021 {}
+  1:
+    0: *id001
+    2: &id002 {}
+    7: &id006 {}
+    11: &id013 {}
+    12: &id018 {}
+  2:
+    1: *id002
+    12: &id019 {}
+    13: &id022 {}
+  3:
+    0: *id003
+    11: &id014 {}
+    15: &id028 {}
+  4:
+    6: &id005 {}
+    9: &id008 {}
+    10: &id010 {}
+    11: &id015 {}
+  5:
+    0: *id004
+    10: &id011 {}
+    12: &id020 {}
+  6:
+    4: *id005
+    10: &id012 {}
+    13: &id023 {}
+  7:
+    1: *id006
+    8: &id007 {}
+    15: &id029 {}
+  8:
+    7: *id007
+    9: &id009 {}
+    11: &id016 {}
+    14: &id025 {}
+  9:
+    4: *id008
+    8: *id009
+    11: &id017 {}
+    13: &id024 {}
+    15: &id030 {}
+  10:
+    4: *id010
+    5: *id011
+    6: *id012
+    14: &id026 {}
+  11:
+    1: *id013
+    3: *id014
+    4: *id015
+    8: *id016
+    9: *id017
+  12:
+    1: *id018
+    2: *id019
+    5: *id020
+    14: &id027 {}
+    15: &id031 {}
+  13:
+    0: *id021
+    2: *id022
+    6: *id023
+    9: *id024
+    15: &id032 {}
+  14:
+    8: *id025
+    10: *id026
+    12: *id027
+  15:
+    3: *id028
+    7: *id029
+    9: *id030
+    12: *id031
+    13: *id032
+_node: &id035
+  0: {}
+  1: {}
+  2: {}
+  3: {}
+  4: {}
+  5: {}
+  6: {}
+  7: {}
+  8: {}
+  9: {}
+  10: {}
+  11: {}
+  12: {}
+  13: {}
+  14: {}
+  15: {}
+degree: !!python/object:networkx.classes.reportviews.DegreeView
+  _graph: *id033
+  _nodes: *id034
+  _pred: *id034
+  _succ: *id034
+  _weight: null
+graph: {}
+nodes: !!python/object:networkx.classes.reportviews.NodeView
+  _nodes: *id035
